@@ -1,5 +1,4 @@
-# cellanalysis
-CellAnalysis is the main project from fakebts.com to detect fake 2G stations
+# CellAnalysis is the main project from fakebts.com to detect fake 2G stations
 
 There are 3 main scripts to start using CellAnalysis:
 
