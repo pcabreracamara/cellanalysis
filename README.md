@@ -34,7 +34,7 @@ Following are described how to setup everything, depending the hardware you want
 
   1.1.4) Finally, add to the user's cron file this lines to run the two scripts every 10 minutes:<br>
   `0,10,20,30,40,50 * * * * <path_files>/cell_analysis.sh > /dev/null 2>&1`<br>
-  `0,10,20,30,40,50 * * * * <path_files>/check_cells.sh > /dev/null 2>&1`
+  `0,10,20,30,40,50 * * * * <path_files>/check_cells.sh > /dev/null 2>&1`<br>
   Note: check after this step that the two script files have execution permissions. If you are not sure, run this command in the directory where you have unzipped the files:<br>
   `chmod x cell_analysis.sh check_cells.sh`
   
